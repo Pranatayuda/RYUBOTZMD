@@ -11,18 +11,18 @@ global.APIKeys = {
 }
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'RyuBotz MD' //Ganti Jadi Nama Botmu
-global.packname = '© Ryubotz MD' //Sticker Weem
-global.author = 'Ryubotz By Ryuuka Team' //Sticker Weem
+global.namaowner = 'Azzam'
+global.owner = ['6281321758107','6282135041630']
+global.nomerowner = '6282135041630'
+global.namabot = 'ElainaBot'
+global.packname = '© ElainaBot'
+global.author = 'Ryubotz By Elaina Team'
 global.webme = 'https://api-ryubotz.herokuapp.com'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
-global.youtube = 'https://youtube.com/c/RyuukaBotz'
-global.github = 'https://github.com/R-TEAM94'
-global.instagram = 'https://instagram.com/fandyyy._'
+global.youtube = 'no youtube'
+global.github = 'no github'
+global.instagram = 'no instagram'
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
